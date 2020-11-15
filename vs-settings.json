@@ -1,0 +1,26 @@
+{
+    "window.zoomLevel": 1,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontSize": 15,
+    "editor.tabSize": 2,
+    "editor.codeActionsOnSave": {
+    	"source.fixAll": true
+  	},
+  	"explorer.autoReveal": false,
+  	"javascript.updateImportsOnFileMove.enabled": "always",
+    "javascript.preferences.importModuleSpecifier": "non-relative",
+    "workbench.iconTheme": "eq-material-theme-icons-ocean",
+    "editor.fontFamily": "'Cascadia Code', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.associations": {
+      "*.tsx": "typescriptreact"
+    },
+    "workbench.colorTheme": "Solarized Dark",
+    "telemetry.enableCrashReporter": false,
+    "terminal.integrated.shell.osx": "/bin/zsh"
+}
