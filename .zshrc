@@ -182,24 +182,13 @@ alias gradle-debug="./android/gradlew assembleDebug"
 export SENTRY_AUTH_TOKEN="18199936fdd64486b0b311e9032717f61d57e92500cd4b6c95fceb5a04249982"
 export SENTRY_ORG="unitedmasters-ms"
 export SENTRY_PROJECT="um-android-rn"
-source /Users/grantgeorge/.npm-run.plugin.zsh/npm-run.plugin.zsh
 
 alias vs-settings="subl $HOME/Library/Application\ Support/Code/User/settings.json"
-source /Users/grantgeorge/.npm-run.plugin.zsh/npm-run.plugin.zsh
-source /Users/grantgeorge/.npm-run.plugin.zsh/npm-run.plugin.zsh
-source /Users/grantgeorge/.npm-run.plugin.zsh/npm-run.plugin.zsh
-source /Users/grantgeorge/.npm-run.plugin.zsh/npm-run.plugin.zsh
-source /Users/grantgeorge/.npm-run.plugin.zsh/npm-run.plugin.zsh
 
 export EXPO_APPLE_ID="grant@grantgeorge.io"
 export EXPO_APPLE_PASSWORD="t1c6CrZrohdyn"
 export EXPO_APPLE_ID_PASSWORD="t1c6CrZrohdyn"
 export FASTLANE_APPLE_APPLICATION_SPECIFIC_PASSWORD="vmvh-abij-ulmz-lofd"
-source /Users/grantgeorge/.npm-run.plugin.zsh/npm-run.plugin.zsh
-source /Users/grantgeorge/.npm-run.plugin.zsh/npm-run.plugin.zsh
-source /Users/grantgeorge/.npm-run.plugin.zsh/npm-run.plugin.zsh
-source /Users/grantgeorge/.npm-run.plugin.zsh/npm-run.plugin.zsh
-source /Users/grantgeorge/.npm-run.plugin.zsh/npm-run.plugin.zsh
 
 # From Mathias dotfiles...
 
